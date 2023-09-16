@@ -120,7 +120,7 @@ export default Typewriter;
 use comma after every sentence to separate it.
 example
 1) text="WORLD!,GOOD DAY"
-2) text="developer,designer,engineers"
+2) text="developer,designer,engineer"
 
 ```typescript
 
