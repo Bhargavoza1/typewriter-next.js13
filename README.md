@@ -1,3 +1,3 @@
 <p align="center">
-![](./gitresource/efect.gif)
+  ![](./gitresource/efect.gif)
 </p> 
