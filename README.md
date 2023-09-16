@@ -43,7 +43,7 @@ http://localhost:3000
 
 # code 
 
-##Typewriter.tsx
+## Typewriter.tsx
 ```typescript
 
 'use client'
@@ -116,7 +116,7 @@ export default Typewriter;
 
 ```
 
-##page.tsx
+## page.tsx
 ```typescript
 
 import Typewriter from '@/components/Typewriter'
