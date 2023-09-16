@@ -117,6 +117,11 @@ export default Typewriter;
 ```
 
 ## page.tsx
+use comma after every sentence to separate it.
+example
+1) text="WORLD!,GOOD DAY"
+2) text="developer,designer,engineers"
+
 ```typescript
 
 import Typewriter from '@/components/Typewriter'
