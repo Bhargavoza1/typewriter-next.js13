@@ -1,1 +1,3 @@
- ![](./gitresource/efect.gif)
+<p align="center">
+![](./gitresource/efect.gif)
+</p> 
