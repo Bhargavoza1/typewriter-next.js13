@@ -1,6 +1,5 @@
 import Typewriter from '@/components/Typewriter'
-import Image from 'next/image'
-
+ 
 export default function Home() {
   return (
     <div
